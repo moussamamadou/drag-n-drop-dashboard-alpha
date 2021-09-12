@@ -13,7 +13,7 @@ export default function Home(): JSX.Element {
 
   return (
     <div className="p-3">
-      <h1 className="text-3xl text-center p-1">Drag n Drop - Boiler Plate</h1>
+      <h1 className="text-3xl text-center p-1">Drag n Drop - Template</h1>
       <h2 className="text-lg text-center p-1">
         Build With : React.js - Next.js - TypeScript - TailwindCSS - React
         Beautifull DnD
