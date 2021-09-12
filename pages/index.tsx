@@ -15,8 +15,7 @@ export default function Home(): JSX.Element {
     <div className="p-3">
       <h1 className="text-3xl text-center p-1">Drag n Drop - Template</h1>
       <h2 className="text-lg text-center p-1">
-        Build With : React.js - Next.js - TypeScript - TailwindCSS - React
-        Beautifull DnD
+        Build With : React.js - Next.js - TypeScript - TailwindCSS - React-Beautifull-DnD
       </h2>
       <div className="flex w-full p-3">
         <Droppable
