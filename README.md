@@ -1,4 +1,4 @@
-# Drag n Drop Dashboard 
+# Drag n Drop Dashboard - Alpha 
 
 #### This is an old version : look at the final version [here](https://github.com/moussamamadou/drag-n-drop-dashboard)
 
