@@ -1,4 +1,7 @@
-# Drag n Drop - Template
+# Drag n Drop Dashboard 
+
+#### This is an old version : look at the final version [here](https://github.com/moussamamadou/drag-n-drop-dashboard)
+
 ### Build With : React.js - Next.js - TypeScript - TailwindCSS - React-Beautifull-DnD
         
  User can :  
